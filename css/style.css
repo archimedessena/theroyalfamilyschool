@@ -1,0 +1,187 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.nav {
+    margin: 20px;
+    padding-right: 400px;  
+}
+
+#school {
+    color: purple;
+    padding-right: 250px;
+    font-size: large;
+    
+}
+
+ul {
+    float: right;
+    padding-left: 30px;
+    font-size: small;
+    font-weight: bold;
+    
+    
+
+    
+}
+ul  li{
+    display: inline;
+    margin: 10px;
+    
+}
+
+ul li a {
+    text-decoration: none;
+    color: blue;
+}
+
+ul li a:hover {
+    border-bottom: 4px solid  red;
+    padding: 0.5px;
+
+}
+
+.contacts {
+    background-color:purple;
+    height: 40px;
+    
+}
+.contacts address {
+    float: right;
+    padding-top: 10px;
+    padding-right: 150px;
+    text-decoration: none;
+}
+
+
+.label {
+    margin-top: 60px;
+    padding: 450px;
+    background-image: url(../images/graduation222.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:white;
+    text-align: center;
+    height:100px;
+   
+}
+
+
+
+.neat {
+    border-style: hidden;
+    text-align: center;
+    margin:10px;
+    width: 200px;
+    float: right;
+    padding: 10px;
+    background-color: blue;
+    
+}
+
+.books {
+    border-style: hidden;
+    text-align: center;
+    margin: 10px;
+    width: 200px;
+    float: right;
+    padding: 10px;
+    background-color: green;
+
+}
+
+.teachers {
+    border-style: hidden;
+    text-align: center;
+    margin: 10px;
+    width: 200px;
+    float: right;
+    background-color: violet;  
+}
+
+.work {
+    padding-right: 400px;
+    margin-top: 0.1px;
+    padding-top: 5px;
+}
+.best {
+    padding-right: 300px;
+}
+.main {
+    margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
